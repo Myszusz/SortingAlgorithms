@@ -1,2 +1,2 @@
 # SortingAlgorithms
-Student project, all made by myself
+Student project
